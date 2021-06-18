@@ -1,2 +1,2 @@
 # cGame1
-# aa
+<img src="noname01.bmp">
